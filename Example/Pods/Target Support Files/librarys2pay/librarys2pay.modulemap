@@ -1,0 +1,6 @@
+framework module librarys2pay {
+  umbrella header "librarys2pay-umbrella.h"
+
+  export *
+  module * { export * }
+}

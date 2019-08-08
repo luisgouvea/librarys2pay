@@ -7,12 +7,14 @@
 //
 
 import UIKit
+import librarys2pay
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        FuncionUtilKop.token = "fdsf"
     }
 
     override func didReceiveMemoryWarning() {

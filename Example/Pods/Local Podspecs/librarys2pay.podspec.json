@@ -1,0 +1,22 @@
+{
+  "name": "librarys2pay",
+  "version": "0.1.0",
+  "summary": "A short description of librarys2pay.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/luisgouvea/librarys2pay",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "luisgouvea": "luiseduardo.gouvea@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/luisgouvea/librarys2pay.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "librarys2pay/Classes/**/*"
+}
